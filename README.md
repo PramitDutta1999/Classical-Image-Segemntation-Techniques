@@ -34,4 +34,9 @@ This repository contains a group assignment submitted for **ENGG*6302: Image Pro
 - Matplotlib
 - scikit-learn
 
+## License
 
+This project is licensed under the MIT License. See `LICENSE` for details.
+
+## Acknowledgments
+This project was completed as part of the UNIV*6302: Image Processing course at the University of Guelph under the guidance of Professor Eranga Ukwatta. Thanks to the AI Enabled Medical Imaging Analysis Lab for their support and resources throughout this work.
